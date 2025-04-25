@@ -1,0 +1,57 @@
+/**
+ * Client Access Manager Admin Styles
+ */
+
+ .cam-logo-preview {
+    margin-bottom: 10px;
+  }
+  
+  .cam-logo-preview img {
+    max-width: 50px;
+    max-height: 50px;
+    display: block;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    padding: 3px;
+    background: #fff;
+  }
+  
+  .cam-remove-logo {
+    margin-left: 10px !important;
+  }
+  
+  .cam-settings-section {
+    margin-bottom: 20px;
+  }
+  
+  .cam-settings-section h2 {
+    margin-bottom: 10px;
+  }
+  
+  .cam-token-url-example {
+    font-family: monospace;
+    background: #f5f5f5;
+    padding: 3px 5px;
+    border-radius: 3px;
+  }
+  
+  #cam_token_debug {
+    font-family: monospace;
+    font-size: 12px;
+    line-height: 1.4;
+    max-height: 200px;
+    overflow-y: auto;
+  }
+  
+  #cam_token_debug p {
+    margin: 5px 0;
+  }
+  
+  #cam_token_debug p.success {
+    color: green;
+  }
+  
+  #cam_token_debug p.error {
+    color: red;
+  }
+  

@@ -1,0 +1,13 @@
+/**
+ * Client Access Manager Admin Bar Styles
+ */
+
+ #wp-admin-bar-client-access-notice {
+    background-color: #d54e21 !important;
+    color: white !important;
+  }
+  
+  #wp-admin-bar-client-access-notice .ab-item {
+    color: white !important;
+  }
+  
